@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "comment": "I think this is a really great article.",
+    "author": "Jerry Smith",
+    "subComments": [
+      {
+        "id": 7,
+        "comment": "Right?! I totally agree",
+        "author": "Jenny Smith"
+      },
+      {
+        "id": 8,
+        "comment": "Hey thanks!",
+        "author": "Author Joe",
+        "subComments": [
+          {
+            "id": 899,
+            "comment": "im s SUB COMMENT",
+            "author": "Joe Blank"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "comment": "I didn't get anything from this.",
+    "author": "Negative Nancy",
+    "subComments": [
+      {
+        "id": 9,
+        "comment": "Well maybe you should try a little harder.",
+        "author": "Susan, Sister of Negative Nancy",
+        "subComments": [
+          {
+            "id": 10,
+            "comment": "Nobody asked you Susan!",
+            "author": "Negative Nancy",
+            "subComments": [
+              {
+                "id": 16,
+                "comment": "I know you are but what am I?",
+                "author": "Susan, Sister of Negative Nancy"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "comment": "It should be 'your' not 'you're'.",
+    "author": "Grammar Police"
+  },
+  {
+    "id": 4,
+    "comment": "This blew my mind!",
+    "author": "Awesome Patty",
+    "subComments": [
+      {
+        "id": 11,
+        "comment": "Oh thanks! You make me feel so good!",
+        "author": "Author Joe",
+        "subComments": [
+          {
+            "id": 12,
+            "comment": "You're welcome!",
+            "author": "Awesome Patty"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "comment": "I completely agree!",
+        "author": "Awesome Patrick"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "comment": "Dddduuuudddeeee, thanks for the tips!",
+    "author": "Crush Turtle"
+  },
+  {
+    "id": 6,
+    "comment": "It was meh.",
+    "author": "Unimpressed Neighbor",
+    "subComments": [
+      {
+        "id": 14,
+        "comment": "This man must be hard to impress.",
+        "author": "Always Impressed",
+        "subComments": [
+          {
+            "id": 15,
+            "comment": "You know, that's what I've been told...",
+            "author": "Unimpressed Neighbor"
+          }
+        ]
+      }
+    ]
+  }
+]
